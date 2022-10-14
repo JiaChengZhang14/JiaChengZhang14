@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hola! Bienvenidos a mi perfil de GitHub! </h1>
+<h1 align="center">Welcolme to my GitHub profile👋! </h1>
 
 <p align="center">
-    <img src="octocat/octocat-1665739606471.png">
+    <img src="octocat/octocat-1665739606471.png" width="300px">
 </p>
 
 ## **1. Presentación**
