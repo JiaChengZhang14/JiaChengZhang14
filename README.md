@@ -4,20 +4,29 @@
     <img src="octocat/octocat-1665739606471.png" width="300px">
 </p>
 
-## **1. Presentación**
+## **1. Presentation**
 
-Me llamo JiaCheng Zhang y soy estudiante de DAM en el [_IES Luis Vives_](https://github.com/IESLuisVives). 
+My name is JiaCheng Zhang and Im DAM's Student in [_IES Luis Vives_](https://github.com/IESLuisVives) (Spain, Madrid)🏫. 
 
-## **2. Contacto**
+Im Chinese but I was born in Spain. Im able to speak 3 languages: chinese, english (Certified by LanguageCert Level 1 Certificate in ESOL International Comunicator Level B2) and spanish. 
+
+I am a computer💻 and videogames🎮 enthusiast who's willing to learn.
+
+## **2. Contact**
 
 📧Correos electrónicos: 
 - _jiachengmadrid@gmail.com_
 - _jiacheng.zhang@alumno.iesluisvives.org_
 
-## **3. Experiencia laboral**   
-- Experiencia como camarero. 
+
+## **3. Working Experience**   
+- Some experience as a restaurant waiter🍽️. 
   
-- Continuara...
+- To be continued...🚀
+
+## **4. Other**
+ - 🌱 I’m currently learning Kotlin and Java
+
 
 <!--
 **JiaChengZhang14/JiaChengZhang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
