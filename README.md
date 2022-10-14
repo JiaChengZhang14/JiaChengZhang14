@@ -36,7 +36,7 @@ Soy un aficionado a la informática💻 y a los videojuegos🎮 y siempre estoy 
 ## **4. Other**
  - 🌱 I’m currently learning Kotlin and Java
 
-
+<figure><embed src="https://wakatime.com/share/@1fa255ec-a5e5-4c4f-a091-7550710111c9/0ef0d07b-df65-4a27-b548-065dfcdf996b.svg"></embed></figure>
 <!--
 **JiaChengZhang14/JiaChengZhang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
