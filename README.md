@@ -1,10 +1,8 @@
-# Hola ! 👋
+<h1 align="center">👋 Hola! Bienvenidos a mi perfil de GitHub! </h1
 
-### Bienvenidos a mi perfil de GitHub !
+<img src="file:///C:/Users/jiach/OneDrive/Imágenes/Octocat/octocat-1665739606471.png">
 
-![octocat](C:\Users\jiach\OneDrive\Imágenes\Octocat\octocat-1665739606471.png)
-
-## Introducción
+Me llamo JiaCheng Zhang y soy estudiante de DAM en el [IES Luis Vives](https://github.com/IESLuisVives) 
 
 <p1>
 
