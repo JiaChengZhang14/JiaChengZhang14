@@ -1,10 +1,22 @@
-<h1 align="center">👋 Hola! Bienvenidos a mi perfil de GitHub! </h1
+<h1 align="center">👋 Hola! Bienvenidos a mi perfil de GitHub! </h1>
 
-<img src="file:///C:/Users/jiach/OneDrive/Imágenes/Octocat/octocat-1665739606471.png">
+<p align="center">
+    <img src="file:///C:/Users/jiach/OneDrive/Imágenes/Octocat/octocat-1665739606471.png">
+</p>
 
-Me llamo JiaCheng Zhang y soy estudiante de DAM en el [IES Luis Vives](https://github.com/IESLuisVives) 
+## **1. Presentación**
 
-<p1>
+Me llamo JiaCheng Zhang y soy estudiante de DAM en el [_IES Luis Vives_](https://github.com/IESLuisVives). 
+
+## **2. Contacto**
+
+📧Correos electrónicos: 
+- _jiachengmadrid@gmail.com_
+- _jiacheng.zhang@alumno.iesluisvives.org_
+
+## **3. Experiencia laboral**   
+
+Continuara...
 
 <!--
 **JiaChengZhang14/JiaChengZhang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
