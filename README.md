@@ -19,7 +19,7 @@ Hola! Mi nombre es JiaCheng Zhang y soy estudiante de 1ºDAM en el [_IES Luis Vi
 
 Soy de nacionalidad china pero he nacido en España. Soy capaz de hablar 3 idiomas: Chino, Inglés (Certificado por [_LanguageCert Level 1 Certificate in ESOL International Comunicator Level B2_](https://www.languagecert.org/en/language-exams/english/languagecert-selt/b2-lrws-2716)) y Español. 
 
-Soy un aficionado a la informática💻 y a los videojuegos🎮 y siempre estoy dispuesto a aprender.
+Soy un aficionado a la informática💻 y a los videojuegos🎮 y siempre estoy dispuesto a aprender. 
 
 ## **2. Contact**
 
@@ -35,9 +35,16 @@ Soy un aficionado a la informática💻 y a los videojuegos🎮 y siempre estoy 
 
 ## **4. Other**
  - 🌱 I’m currently learning Kotlin and Java
+  
+
+## **5. End**
+<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.mx%2Fpin%2F606086062333143315%2F%3Famp_client_id%3DCLIENT_ID(_)%26mweb_unauth_id%3D%7B%7Bdefault.session%7D%7D%26simplified%3Dtrue&psig=AOvVaw0qUpCXkFXDqJcTjjFSZQBi&ust=1666081225297000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLC83q7q5voCFQAAAAAdAAAAABAN" width= "450px">
 
 <!--
 **JiaChengZhang14/JiaChengZhang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
