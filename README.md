@@ -43,7 +43,7 @@ Soy un aficionado a la informática💻 y a los videojuegos🎮 y siempre estoy 
 ## **6. Activity**
 <img src = "https://wakatime.com/share/@1fa255ec-a5e5-4c4f-a091-7550710111c9/ccdcaeb8-4c43-4b38-968a-d049659375ba.svg" width = "450px">
 
-<img src = "https://wakatime.com/share/@1fa255ec-a5e5-4c4f-a091-7550710111c9/027c6b62-d40a-488e-bebd-db5a30d364cb.svg" width = "450px">
+<img src = "https://wakatime.com/share/@1fa255ec-a5e5-4c4f-a091-7550710111c9/f25c356f-d87d-479d-8ed4-8bb5e8f2bcaa.svg">
 
 ## **7. End**
 <img src="img/04a35a60dc327e10900772f75fb2ee77.gif" width= "450px">
