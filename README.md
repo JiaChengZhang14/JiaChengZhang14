@@ -1,7 +1,7 @@
 <h1 align="center">Welcolme to my GitHub profile👋! </h1>
 
 <p align="center">
-    <img src="octocat/octocat-1665739606471.png" width="300px">
+    <img src="img/octocat-1665739606471.png" width="300px">
 </p>
 
 ## **1. Presentation**
@@ -36,9 +36,9 @@ Soy un aficionado a la informática💻 y a los videojuegos🎮 y siempre estoy 
 ## **4. Other**
  - 🌱 I’m currently learning Kotlin and Java
   
-
-## **5. End**
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.mx%2Fpin%2F606086062333143315%2F%3Famp_client_id%3DCLIENT_ID(_)%26mweb_unauth_id%3D%7B%7Bdefault.session%7D%7D%26simplified%3Dtrue&psig=AOvVaw0qUpCXkFXDqJcTjjFSZQBi&ust=1666081225297000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLC83q7q5voCFQAAAAAdAAAAABAN" width= "450px">
+## **5. **
+## **6. End**
+<img src="img/04a35a60dc327e10900772f75fb2ee77.gif" width= "450px">
 
 <!--
 **JiaChengZhang14/JiaChengZhang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
