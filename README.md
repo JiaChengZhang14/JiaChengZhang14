@@ -1,7 +1,7 @@
 <h1 align="center">Welcolme to my GitHub profile👋! </h1>
 
 <p align="center">
-    <img src="img/octocat-1665739606471.png" width="300px">
+    <img src="img/yasuo.png" width="300px">
 </p>
 
 ## **1. Presentation**
@@ -62,7 +62,6 @@ height="40" width="40">
 
   <a href="http://www.github.com/jiachengzhang14"><img loading="lazy" src="https://activity-graph.herokuapp.com/graph?username=jiachengzhang14&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" height="450"/></a>
 </p>
-
 
 ## **7. End**
 <img src="img/04a35a60dc327e10900772f75fb2ee77.gif" width= "450px">
