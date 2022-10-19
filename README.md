@@ -4,7 +4,7 @@
     <img src="img/yasuo.png" width="300px">
 </p>
 
-## **1. Presentation**
+## **1. About me**
 
 Hi! My name is JiaCheng Zhang and Im DAM's Student in [_IES Luis Vives_](https://github.com/IESLuisVives) (Spain, Madrid)🏫. 
 
