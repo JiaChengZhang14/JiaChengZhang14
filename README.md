@@ -1,7 +1,7 @@
 <h1 align="center">Welcolme to my GitHub profile👋! </h1>
 
 <p align="center">
-    <img src="img/yasuo.png" width="300px">
+    <img src="img/tank yas.png" width="300px">
 </p>
 
 ## **1. About me**
