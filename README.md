@@ -64,6 +64,8 @@ height="40" width="40">
   <a href="http://www.github.com/jiachengzhang14"><img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=jiachengzhang14&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="" height="250"/></a>
 
   <a href="http://www.github.com/jiachengzhang14"><img loading="lazy" src="https://activity-graph.herokuapp.com/graph?username=jiachengzhang14&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" height="450"/></a>
+
+  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=jiachengzhang14&theme=react-dark"><img loading="lazy" src="https://github-readme-activity-graph.cyclic.app/graph?username=jiachengzhang14&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=JiaChengZhang%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="300"/></a>
 </p>
 
 ## **7. End**
