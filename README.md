@@ -50,9 +50,7 @@ height="40" width="40">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" heigth ="40" width= "40">
 <img src= "https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" width="40" heigth = "4'">
 <img src = "https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png" width = "40" height="40">
-<img src = "img/Windows_logo_-_2012.png" width = "37" height="37">
-<img src = "img/ubuntu-logo.png" width = "40" height="40">
-<img src = "img/sql.png" width = "40" height="40">
+<img src = "img\sql.png" width = "40" height="40">
 
 </p>
 </p>
