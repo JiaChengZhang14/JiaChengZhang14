@@ -47,7 +47,7 @@ Soy un aficionado a la informática💻 y a los videojuegos🎮 y siempre estoy 
 height="40" width = "40">
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
 height="40" width="40">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" heigth ="40" width= "40">
+<img src="img/github.svg" heigth ="40" width= "40">
 <img src= "https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" width="40" heigth = "4'">
 <img src = "https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png" width = "40" height="40">
 <img src = "img\sql.png" width = "40" height="40">
