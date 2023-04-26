@@ -46,9 +46,9 @@ height="40" width = "40">
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
 height="40" width="40">
 <img src="img/github.svg" heigth ="40" width= "40">
-<img src= "https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" width="40" heigth = "4'">
-<img src = "https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png" width = "40" height="40">
-<img src = "img\sql.png" width = "40" height="40">
+
+<img src = "https://camo.githubusercontent.com/ff6f52ffdfce44372e3be3eda37d354ce2a15874e9b15996c2263172683f7bcd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d69636f6e2e737667" width = "40">
+<img src = "https://camo.githubusercontent.com/72c27477f91493365e44b44306740892911721464f3f25d5b706c5deab24bfc2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f34383070782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" width = "40" heigth = "40">
 
 </p>
 </p>
