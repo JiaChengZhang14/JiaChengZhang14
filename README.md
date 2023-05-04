@@ -1,16 +1,18 @@
 <h1 align="center">Welcolme to my GitHub profile👋! </h1>
 
-
+<center>
 
 ## **1. About me**
 
-Hi! My name is JiaCheng Zhang and Im DAM's Student in [_IES Luis Vives_](https://github.com/IESLuisVives) (Spain, Madrid)🏫. 
+</center>
+
+<!--Hi! My name is JiaCheng Zhang and Im DAM's Student in [_IES Luis Vives_](https://github.com/IESLuisVives) (Spain, Madrid)🏫. 
 
 Im Chinese but I was born in Spain. Im able to speak 3 languages: Chinese (Aproximately HSK-5 Level (NOT certified)), English (Certified by [_LanguageCert Level 1 Certificate in ESOL International Comunicator Level B2_](https://www.languagecert.org/en/language-exams/english/languagecert-selt/b2-lrws-2716)) and Spanish (Native level). 
 
 I am a computer💻 and videogames🎮 enthusiast who's willing to learn.
 
-____
+____-->
 
 
 Hola! Mi nombre es JiaCheng Zhang y soy estudiante de 1ºDAM en el [_IES Luis Vives_](https://github.com/IESLuisVives) 🏫.
@@ -19,22 +21,41 @@ Soy de nacionalidad china pero he nacido en España. Soy capaz de hablar 3 idiom
 
 Soy un aficionado a la informática💻 y a los videojuegos🎮 y siempre estoy dispuesto a aprender. 
 
+<center>
+
 ## **2. Contact**
+
+</center>
 
 📧Email Address: 
 - _jiachengmadrid@gmail.com_
 - _jiacheng.zhang@alumno.iesluisvives.org_
 
+<center>
 
 ## **3. Working Experience**   
+
+</center>
+
 - Some experience as a restaurant waiter🍽️. 
   
 - To be continued...🚀
 
+<center>
+
 ## **4. Other**
+
+</center>
+
  - 🌱 I’m currently learning Kotlin and Java
-  
+
+<center>
+
 ## **5. Technologies & tools**
+
+</center>
+
+<center>
 
 <p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -53,7 +74,13 @@ height="40" width="40">
 </p>
 </p>
 
+</center>
+
+<center>
+
 ## **6. Activity**
+
+</center>
 
 <p align ="center">
     <img src = "https://wakatime.com/share/@1fa255ec-a5e5-4c4f-a091-7550710111c9/ccdcaeb8-4c43-4b38-968a-d049659375ba.svg" width = "400">
