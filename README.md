@@ -82,6 +82,8 @@ height="40" width="40">
 
 </center>
 
+<center>
+
 <p align ="center">
     <img src = "https://wakatime.com/share/@1fa255ec-a5e5-4c4f-a091-7550710111c9/ccdcaeb8-4c43-4b38-968a-d049659375ba.svg" width = "400">
     <img src = "https://wakatime.com/share/@1fa255ec-a5e5-4c4f-a091-7550710111c9/f25c356f-d87d-479d-8ed4-8bb5e8f2bcaa.svg" width ="400">
@@ -95,7 +97,14 @@ height="40" width="40">
   <a href="https://github-readme-activity-graph.cyclic.app/graph?username=jiachengzhang14&theme=react-dark"><img loading="lazy" src="https://github-readme-activity-graph.cyclic.app/graph?username=jiachengzhang14&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=JiaChengZhang%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="300"/></a>
 </p>
 
+</center>
+
+<center>
+
 ## **7. End**
+
+</center>
+
 <img src="img/04a35a60dc327e10900772f75fb2ee77.gif" width= "450px">
 
 <!--
