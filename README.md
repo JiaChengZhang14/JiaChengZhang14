@@ -46,8 +46,7 @@ Soy un aficionado a la informática💻 y a los videojuegos🎮 y siempre estoy 
 ## **4. Other**
 
 </center>
-
- - 🌱 I’m currently learning Kotlin and Java
+ -  I'm interested in learning Swift 🍎
 
 <center>
 
