@@ -46,7 +46,7 @@ Soy un aficionado a la informática💻 y a los videojuegos🎮 y siempre estoy 
 ## **4. Other**
 
 </center>
- -  I'm interested in learning Swift 🍎
+ -  I'm interested in learning Swift🍎
 
 <center>
 
