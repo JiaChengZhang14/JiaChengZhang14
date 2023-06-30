@@ -93,7 +93,7 @@ height="40" width="40">
 
   <a href="http://www.github.com/jiachengzhang14"><img loading="lazy" src="https://activity-graph.herokuapp.com/graph?username=jiachengzhang14&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" height="450"/></a>
 
-  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=jiachengzhang14&theme=react-dark"><img loading="lazy" src="https://github-readme-activity-graph.cyclic.app/graph?username=jiachengzhang14&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=JiaChengZhang%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="300"/></a>
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=jiachengzhang14&theme=react-dark"><img loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=jiachengzhang14&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=JiaChengZhang's%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="150"/></a>
 </p>
 
 </center>
