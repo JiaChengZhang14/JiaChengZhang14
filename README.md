@@ -15,7 +15,7 @@ I am a computer💻 and videogames🎮 enthusiast who's willing to learn.
 ____-->
 
 
-Hola! Mi nombre es JiaCheng Zhang y soy estudiante de 1ºDAM en el [_IES Luis Vives_](https://github.com/IESLuisVives) 🏫.
+Hola! Mi nombre es JiaCheng Zhang y soy estudiante de DAM en el [_IES Luis Vives_](https://github.com/IESLuisVives) 🏫.
 
 Soy de nacionalidad china pero he nacido en España. Soy capaz de hablar 3 idiomas: Chino (Aproximadamente HSK-5 (NO certificado)), Inglés (Certificado por [_LanguageCert Level 1 Certificate in ESOL International Comunicator Level B2_](https://www.languagecert.org/en/language-exams/english/languagecert-selt/b2-lrws-2716)) y Español (Nivel Nativo). 
 
