@@ -28,7 +28,7 @@ Soy un aficionado a la informática💻 y a los videojuegos🎮 y siempre estoy 
 </center>
 
 📧Email Address: 
-- _jiachengmadrid@gmail.com_
+- _contact.jczhang@gmail.com_
 - _jiacheng.zhang@alumno.iesluisvives.org_
 
 <center>
