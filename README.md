@@ -64,7 +64,13 @@ height="40" width = "40">
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
 height="40" width="40">
 <img src="img/github.svg" heigth ="40" width= "40">
-
+<img src="https://cdn.freebiesupply.com/logos/large/2x/docker-logo-png-transparent.png" heigth ="40" width= "40">
+<img src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/csharp--programming-language-icon-symbol-logo-vector-.png" heigth ="40" width= "40">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png?f=webp&w=256" heigth ="40" width= "40">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-mariadb-226022.png?f=webp" heigth ="40" width= "40">
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" heigth ="50" width= "50">
+<img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" heigth ="40" width= "40">
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" heigth ="40" width= "40">
 
 
 </p>
@@ -74,30 +80,7 @@ height="40" width="40">
 
 <center>
 
-## **6. Activity**
-
-</center>
-
-<center>
-
-<p align ="center">
-    <img src = "https://wakatime.com/share/@1fa255ec-a5e5-4c4f-a091-7550710111c9/ccdcaeb8-4c43-4b38-968a-d049659375ba.svg" width = "400">
-    <img src = "https://wakatime.com/share/@1fa255ec-a5e5-4c4f-a091-7550710111c9/f25c356f-d87d-479d-8ed4-8bb5e8f2bcaa.svg" width ="400">
-</p>
-
-<p align="center">
-  <a href="http://www.github.com/jiachengzhang14"><img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=jiachengzhang14&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="" height="250"/></a>
-
-  <a href="http://www.github.com/jiachengzhang14"><img loading="lazy" src="https://activity-graph.herokuapp.com/graph?username=jiachengzhang14&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" height="450"/></a>
-
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=jiachengzhang14&theme=react-dark"><img loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=jiachengzhang14&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=JiaChengZhang's%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="300"/></a>
-</p>
-
-</center>
-
-<center>
-
-## **7. End**
+## **6. End**
 
 </center>
 
