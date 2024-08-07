@@ -35,7 +35,7 @@ Soy de nacionalidad china pero he nacido en España. Soy capaz de hablar 3 idiom
 
 </center>
 
-- Airbus Operations SAP ABAP Developer Trainee 3 Months. 
+- Airbus Operations Developer Trainee 3 Months. 
   
 - To be continued...🚀
 
