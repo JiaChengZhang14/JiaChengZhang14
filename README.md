@@ -35,7 +35,9 @@ Soy de nacionalidad china pero he nacido en España. Soy capaz de hablar 3 idiom
 
 </center>
 
-- Airbus Operations Developer Trainee 3 Months. 
+- Web Developer at Hanyu | Trainlang. (Nov 2024 - Present)
+
+- Airbus Operations Software Developer Trainne. (April 2024 - June 2024) 
   
 - To be continued...🚀
 
