@@ -138,6 +138,10 @@ A web platform currently under development for a professional window cleaning se
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td>
+
 ### 🔥 Currently Using
 <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -145,11 +149,17 @@ A web platform currently under development for a professional window cleaning se
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </div>
 
+</td>
+<td>
+
 ### 📱 Android
 <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 </div>
+
+</td>
+<td>
 
 ### 🌐 Web
 <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
@@ -165,6 +175,12 @@ A web platform currently under development for a professional window cleaning se
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
 </div>
 
+</td>
+</tr>
+
+<tr>
+<td>
+
 ### 🗄️ Databases
 <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
@@ -172,6 +188,9 @@ A web platform currently under development for a professional window cleaning se
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40"/>
 </div>
+
+</td>
+<td>
 
 ### 🧰 DevOps & Tools
 <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
@@ -182,13 +201,27 @@ A web platform currently under development for a professional window cleaning se
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </div>
 
+</td>
+<td>
+
+### ⚡ Productivity
+<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/anthropic" width="40"/>
+</div>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiachengzhang14&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jiachengzhang14&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiachengzhang14&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jiachengzhang14&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -203,3 +236,4 @@ Feel free to contact me via:
 ---
 
 ⭐️ Feel free to check out my repositories and connect!
+
