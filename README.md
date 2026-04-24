@@ -1,107 +1,196 @@
-<h1 align="center">Welcolme to my GitHub profile👋! </h1>
+<div align="center">
 
-<center>
+# Hi! I'm JiaCheng Zhang!
 
-## **1. About me**
+</div>
 
-</center>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=jiachengzhang14&label=Profile%20views&color=0e75b6&style=flat" alt="jiachengzhang14" />
+</div>
 
-<!--Hi! My name is JiaCheng Zhang and Im DAM's Student in [_IES Luis Vives_](https://github.com/IESLuisVives) (Spain, Madrid)🏫. 
+---
 
-Im Chinese but I was born in Spain. Im able to speak 3 languages: Chinese (Aproximately HSK-5 Level (NOT certified)), English (Certified by [_LanguageCert Level 1 Certificate in ESOL International Comunicator Level B2_](https://www.languagecert.org/en/language-exams/english/languagecert-selt/b2-lrws-2716)) and Spanish (Native level). 
+## 🚀 About Me
 
-I am a computer💻 and videogames🎮 enthusiast who's willing to learn.
+I'm JiaCheng Zhang, a software developer with a background in Desarrollo de Aplicaciones Multiplataforma (DAM) in Spain. I enjoy building practical, scalable applications and continuously improving my skills across different technologies.
 
-____-->
+* 🎓 Studied Multiplatform Application Development (DAM)
+* 💡 Passionate about software development and problem-solving
+* 🌱 Always learning new tools, frameworks, and best practices
+* 🌍 Interested in building applications that make an impact
 
+---
+## 💼 Experience
 
-Hola! Mi nombre es JiaCheng Zhang y soy graduado en Desarrollo de aplicaciones multiplataforma en el [_IES Luis Vives_](https://github.com/IESLuisVives) 🏫.
+### IT Business Analyst | Software Developer
+**Arteconfort** · Apr 2026 – Present
 
-Soy de nacionalidad china pero he nacido en España. Soy capaz de hablar 3 idiomas: Chino (Aproximadamente HSK-5 (NO certificado)), Inglés (Certificado por [_LanguageCert Level 1 Certificate in ESOL International Comunicator Level B2_](https://www.languagecert.org/en/language-exams/english/languagecert-selt/b2-lrws-2716)) y Español (Nivel Nativo). 
+I work as an IT Business Analyst, acting as a bridge between business teams and technical development in an international environment.
 
-<center>
-
-## **2. Contact**
-
-</center>
-
-📧Email Address: 
-- _contact.jczhang@gmail.com_
-- _jiacheng.zhang@alumno.iesluisvives.org_
-
-<center>
-
-## **3. Working Experience**   
-
-</center>
-
-- Web Developer at Hanyu | Trainlang. (Nov 2024 - Present)
-
-- Airbus Operations Software Developer Trainne. (April 2024 - June 2024) 
-  
-- To be continued...🚀
-
-<center>
-
-## **4. Other**
-
-</center>
- -  I'm interested in learning Swift🍎
-
-<center>
-
-## **5. Technologies & tools**
-
-</center>
-
-<center>
-
-<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
-height="40" width = "40">
-<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
-height="40" width="40">
-<img src="img/github.svg" heigth ="40" width= "40">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/docker-logo-png-transparent.png" heigth ="40" width= "40">
-<img src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/csharp--programming-language-icon-symbol-logo-vector-.png" heigth ="40" width= "40">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png?f=webp&w=256" heigth ="40" width= "40">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-mariadb-226022.png?f=webp" heigth ="40" width= "40">
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" heigth ="50" width= "50">
-<img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" heigth ="40" width= "40">
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" heigth ="40" width= "40">
+**Key responsibilities:**
+- 💻 Develop a custom application to generate ISO20022 format files, increasing the productivity of Finance Department
+- 📊 Gather requirements from different departments and translate them into structured technical specifications  
+- 🌐 Communicate requirements in Chinese with the development team  
+- 📈 Create reports using Excel and Power BI for business analysis and decision-making  
+- 🧠 Focus on clarity, structured thinking, and effective cross-team communication
 
 
+**🛠️ Main Stack:**
+<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+</div>
+
+---
+
+### Web Developer  
+**Hanyu | Trainlang** · Nov 2024 – Sep 2025 
+
+- 🧩 Developed and customized WordPress UIs using Oxygen and Bricks Builder  
+- 💻 Built web layouts using HTML, CSS, JavaScript and PHP  
+- 🐞 Reported and tracked issues using a ticketing system  
+- 🌍 Collaborated with an international development team  
+- ⚡ Fixed bugs and improved website performance  
+- 📚 Currently improving SEO optimization and positioning knowledge
+
+
+**🛠️ Main Stack:**
+<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</div>
+
+---
+### Software Developer Trainee  
+**Airbus** · Apr 2024 – Jun 2024 
+
+- 🛠️ Enhanced SAP application functionalities to improve performance and usability  
+- 🔧 Resolved critical issues in SAP systems  
+- 📊 Prepared and delivered project presentations in meetings  
+- ⚙️ Worked with SAP ERP and ABAP environments
+
+
+**🛠️ Main Stack:**
+<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+</div>
+---
+## 🚀 Personal Projects
+
+### 🛒 Wewiza – Smart Shopping Assistant (TFG - DAM)
+
+Final degree project for *Desarrollo de Aplicaciones Multiplataforma (DAM)*.
+
+A smart shopping assistant application designed to help users optimize their grocery shopping experience by suggesting cheaper or similar alternative products based on their list. The system aggregates data from multiple supermarkets in Spain and presents it in a unified interface.
+
+**🔧 Tech Stack:**
+- 🧠 Backend: Python (FastAPI)
+- 📱 Mobile App: Kotlin + Jetpack Compose
+- 🏗️ Architecture: MVVM pattern
+- 🐳 Deployment: Docker
+- 🖥️ Server: Raspberry Pi 3 (Debian)
+- 🔗 API: Custom REST API developed from scratch
+
+**📌 Key Features & Concepts:**
+- 🛒 Product suggestion system based on price comparison
+- 📊 Data aggregation from multiple supermarkets
+- ⚙️ REST API consumption and integration
+- 🧩 Modular and scalable architecture (MVVM)
+- 🧪 Agile development using SCRUM methodology
+- 🔀 Version control with Git + GitFlow workflow
+
+---
+
+### 🌐 LimpiaCristales.net – Web Platform (In Development)
+
+A web platform currently under development for a professional window cleaning service. The project focuses on creating a modern, fast and SEO-friendly website with a scalable architecture.
+
+**🔧 Tech Stack:**
+- ⚛️ Frontend: React, Next.js, TypeScript
+- 🎨 Styling: HTML, CSS
+- 🔥 Backend / BaaS: Firebase
+- ☁️ Hosting: (to be deployed)
+
+**📌 Key Focus Areas:**
+- 🧼 Clean, responsive and modern UI design
+- 📱 Mobile-first development approach
+- ⚡ Server-side rendering (Next.js) for performance & SEO
+- 🔥 Firebase integration for backend services (database)
+- 📈 SEO optimization and performance improvements (ongoing)
+- 🔧 Continuous development and feature expansion
+---
+
+## 🛠️ Tech Stack
+
+### 🔥 Currently Using More
+<p align="left">
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 </p>
+
+### 🎨 Frontend
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
 </p>
 
-</center>
+### 📱 Android
+<p align="left">
+<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+</p>
 
-<center>
+### ⚙️ Backend
+<p align="left">
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+</p>
 
-## **6. End**
+### 🗄️ Databases & Tools
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+</p>
 
-</center>
+---
 
-<img src="img/04a35a60dc327e10900772f75fb2ee77.gif" width= "450px">
+## 📊 GitHub Stats
 
-<!--
-**JiaChengZhang14/JiaChengZhang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiachengzhang14&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jiachengzhang14&theme=tokyonight" />
+</p>
 
+---
 
+## 📫 Contact
 
+Feel free to contact me via:
 
-Here are some ideas to get you started:
+* 📧 Email: contact.jczhang@gmail.com
+* 💼 LinkedIn: [JiaCheng Zhang Linkedin](https://www.linkedin.com/in/jiacheng-zhang-a69739251/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐️ Feel free to check out my repositories and connect!
