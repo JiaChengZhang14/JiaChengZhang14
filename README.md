@@ -19,6 +19,9 @@ I'm JiaCheng Zhang, a software developer with a background in Desarrollo de Apli
 * 🌱 Always learning new tools, frameworks, and best practices
 * 🌍 Interested in building applications that make an impact
 
+### 🔎 Current Interests
+- 🤖 Learning about AI and workflow automation with n8n  
+- 🧠 Implementing local AI systems within applications  
 ---
 ## 💼 Experience
 
