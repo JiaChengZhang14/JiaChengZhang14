@@ -84,6 +84,7 @@ I work as an IT Business Analyst, acting as a bridge between business teams and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
 </div>
+
 ---
 ## 🚀 Personal Projects
 
